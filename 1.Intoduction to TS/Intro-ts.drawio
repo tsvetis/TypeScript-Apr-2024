@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" modified="2024-04-01T18:46:41.687Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n2QDKhFyxCw-b1TZZhyG" version="24.2.1" type="device">
+  <diagram name="Page-1" id="vzf5_AHrZAYnsqQNhhXg">
+    <mxGraphModel dx="635" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-5" value="JS In Browser&lt;div&gt;(JavaScript)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-6" value="&lt;div&gt;JS Runtime on yout machine (Node JS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-8" value="TypeScript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-9" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_eOMOn0hulhIKfO_iHI-8" target="b_eOMOn0hulhIKfO_iHI-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="900" as="sourcePoint" />
+            <mxPoint x="450" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-11" value="Transpile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="790" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-13" value="Languages from the same LEVEL!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="740" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-14" value="JavaScript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-15" value="C, C++" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_eOMOn0hulhIKfO_iHI-14" target="b_eOMOn0hulhIKfO_iHI-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1100" as="sourcePoint" />
+            <mxPoint x="450" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-17" value="Compile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-20" value="Languages from Different Levent!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="950" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-21" value="ES6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="125" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-22" value="ES5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="395" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_eOMOn0hulhIKfO_iHI-21" target="b_eOMOn0hulhIKfO_iHI-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="760" as="sourcePoint" />
+            <mxPoint x="435" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-24" value="Transpile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-25" value="Languages from the same LEVEL!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="600" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-27" value="const a = 5; (4 bytes)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1080" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-28" value="from compilator &quot;C&quot; will have instruction to create variable for 4 byte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1090" width="186" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-29" value="Computer Memory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-30" value="C, C++, Machine Code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-32" value="JavaScript" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-33" value="TypeScript" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_eOMOn0hulhIKfO_iHI-32" target="b_eOMOn0hulhIKfO_iHI-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-38" value="Compilation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="100" as="sourcePoint" />
+            <mxPoint x="410" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-40" value="Transpilation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="435" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-41" value="let a:number = 5;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="75" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-42" value="var a = 5;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-43" value="allocate 4 bytes for variable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b_eOMOn0hulhIKfO_iHI-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b_eOMOn0hulhIKfO_iHI-43" target="b_eOMOn0hulhIKfO_iHI-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="330" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
