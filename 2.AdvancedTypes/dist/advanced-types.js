@@ -121,3 +121,4 @@
 //   right: TreeNode2;
 //   value: number;
 // }
+//# sourceMappingURL=advanced-types.js.map

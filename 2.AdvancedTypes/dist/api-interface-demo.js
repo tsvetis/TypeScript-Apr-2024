@@ -10,3 +10,4 @@ const getUsers = () => {
         .catch((err) => console.log(`Err: ${err}`));
 };
 getUsers();
+//# sourceMappingURL=api-interface-demo.js.map

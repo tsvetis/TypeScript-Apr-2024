@@ -38,3 +38,4 @@ const aggregateElements = (numbers) => {
 //   0.9375
 //   24816
 aggregateElements([2, 4, 8, 16]);
+//# sourceMappingURL=aggrate-elemnts.js.map

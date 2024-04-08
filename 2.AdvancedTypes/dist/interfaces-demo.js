@@ -62,3 +62,4 @@
 // const getName: GetNameFunction = (param1: number, param2: string) => {
 //   return `${param1} ${param2}`;
 // };
+//# sourceMappingURL=interfaces-demo.js.map
